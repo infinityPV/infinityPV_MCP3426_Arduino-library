@@ -6,7 +6,7 @@ infinityPV_MCP3426_Arduino-library
 [*LiBAT5V2A Multiplatform *](https://www.infinitypv.com) 
 
 
-This is an Arduino IDE library for using the MCP3426 ADC on board in the infinityPV LiBAT5V2A evaluation board, where the first channel measures an external voltage through a voltage divider and the 2nd channel measures a current signal using a shunt resistor. However, you can use the library for your own designs including  MCP3426 ADCs :).  
+This is an Arduino IDE library for using the MCP3426 ADC on board in the infinityPV LiBAT5V2A evaluation board, where the first channel measures an external voltage through a voltage divider and the second channel measures a current signal using a shunt resistor. However, you can use the library for your own designs including  MCP3426 ADCs :).  
 
 Repository Contents
 -------------------
