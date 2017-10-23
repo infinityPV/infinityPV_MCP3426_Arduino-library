@@ -59,9 +59,9 @@ void setup() {
   Serial.println(IC1.testConnection() ? "IC1 connection successful" : "MCP342X connection failed");
   
   
-  IC1.setSettingsCH1(60,510,18);
+  IC1.setSettingsCH1(60,510,18);      // set maximum voltage to measure (60V) and values for the used voltage divider (510k, and 18k)
   Serial.println(IC1.getConfigRegShdw(1), BIN);
-  IC1.setSettingsCH2(0.1,1);
+  IC1.setSettingsCH2(0.1,1);          // set maximum current to measure (100mA) and value for the used shunt resistor (1 Ohm)
   Serial.println(IC1.getConfigRegShdw(2), BIN);
   
   
