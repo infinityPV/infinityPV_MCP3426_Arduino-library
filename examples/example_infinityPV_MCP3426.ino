@@ -35,7 +35,7 @@
 // getCH1Voltage_V()and getCH2Current_mA() to get
 // the measured values. 
 //
-// (*) The example uses the infinityPV_MCP342X library, which is 
+// (*) The example uses the infinityPV_MCP3426 library, which is 
 // a modification of the MCP342X library, which is licensed 
 // under BSD license. 
 //
