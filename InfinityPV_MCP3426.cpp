@@ -1,6 +1,6 @@
 /**************************************************************************/
 /*!
-  @file     InfinityPV_MCP342X.cpp
+  @file     InfinityPV_MCP3426.cpp
   @author   rava (infinityPV ApS)
   @license  BSD (see license.txt)
 
@@ -31,7 +31,7 @@
 
 #include <Wire.h>
 
-#include "InfinityPV_MCP342X.h"
+#include "InfinityPV_MCP3426.h"
 
 /*	static float	stepSizeTbl[] = {
 		0.001,		// 12-bit, 1X Gain
