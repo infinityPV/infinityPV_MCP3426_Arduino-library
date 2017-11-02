@@ -42,7 +42,7 @@
 //////////////////////////////////////////////////////////////////////////////
 
 
-#include  <InfinityPV_MCP342X.h>
+#include  <InfinityPV_MCP3426.h>
 
 // Instantiate objects used in this project
 MCP342X IC1; 
