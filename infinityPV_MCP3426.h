@@ -1,6 +1,6 @@
 /**************************************************************************/
 /*!
-    @file     InfinityPV_MCP3426.h
+    @file     infinityPV_MCP3426.h
     @author   rava (infinityPV ApS)
     @license  BSD (see license.txt)
 
