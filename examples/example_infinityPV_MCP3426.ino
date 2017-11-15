@@ -23,8 +23,8 @@
 // (!) Please consider that the maximum voltage input at CH1 and CH2 
 // is 2.048V and any input voltage higher that will lead to overflow. 
 // Therefore, please check that your configuration respects:
-// - VIN_MAX*RD/(RUP+D)<= 2.048V at CH1
-// - IIN_AX*RS1 <= 2.048V at CH2 
+// - VIN_MAX*RD/(RUP+RD)<= 2.048V at CH1
+// - IIN_MAX*RS1 <= 2.048V at CH2 
 //
 // setSettingsCH1 and setSettingsCH2 set the CONFIGURATION REGISTER at MCP3426.
 // The function getConfigRegShdw()allows you to check the final value in this register.
