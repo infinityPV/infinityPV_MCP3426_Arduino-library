@@ -19,7 +19,7 @@ Repository Contents
 Documentation
 --------------
 * **[LiBAT5V2A Brochure](https://infinitypv.com/brochures/LiBAT5V2A_brochureV1.pdf)** - Short description for the LiBAT5V2A evaluation board. 
-* **[LiBAT5V2A Application Note](https://infinitypv.com/application_notes/LiBAT5V2A_applicationnoteV1.0.pdf)** - Application Note for the LiBAT52A evaluation board. Here you can find where is placed the MCP3426 ADC and how to configure the voltage divider and shunt resistor to get highest accuracy measuring for your application. 
+* **[LiBAT5V2A Application Note](https://infinitypv.com/application_notes/LiBAT5V2A_applicationnoteV1.1.pdf)** - Application Note for the LiBAT52A evaluation board. Here you can find where is placed the MCP3426 ADC and how to configure the voltage divider and shunt resistor to get highest accuracy measuring for your application. 
 * **[MCP3426 datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/22226a.pdf)** - MCP3426 ADC/I2C datasheet from Microchip.
 
 Product Versions
